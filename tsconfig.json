@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "files": [
+        "app/app.ts",
+        "app/main.ts",
+        "app/missing-modules.d.ts",
+        "app/views.ts",
+        "app/views/example.view.ts",
+        "app/worker.ts"
+    ]
+}
